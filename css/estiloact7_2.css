@@ -134,7 +134,7 @@ ul{
     border-radius: 6px;
 }
 .aleman{
-    background-image: url(./IMG/aleman.png);
+    background-image: url(../IMG/aleman.png);
     width: 100px;
     height: 90px;
     margin-left: 12px;
@@ -181,4 +181,5 @@ ul{
     }
 
 }
+
 
