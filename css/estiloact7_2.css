@@ -121,7 +121,7 @@ ul{
     gap: 1rem;
 }
 .ingles{
-    background-image: url(./IMG/ingles.png);
+    background-image: url(../IMG/ingles.png);
     width: 100px;
     height: 90px;
     margin-left: 12px;
@@ -181,3 +181,4 @@ ul{
     }
 
 }
+
