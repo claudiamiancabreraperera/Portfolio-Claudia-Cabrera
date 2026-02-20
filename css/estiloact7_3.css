@@ -94,7 +94,7 @@ p{
     align-items: center;
 }
 .taza{
-    background-image: url(/IMG/Tazas.jpg);
+    background-image: url(./IMG/Tazas.jpg);
     width: 300px;
     height: 200px;
     margin-left: 12px;
@@ -114,7 +114,7 @@ p{
     margin-top: 12px;
 }
 .disco{
-    background-image: url(/IMG/Disco3.jpg);
+    background-image: url(./IMG/Disco3.jpg);
     width: 300px;
     height: 200px;
     margin-left: 12px;
@@ -197,4 +197,5 @@ video{
     display: flex;
     flex-wrap: wrap;
     margin-left: 12px;
+
 }
